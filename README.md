@@ -9,6 +9,10 @@ A deep learning web application built with Streamlit and TensorFlow for classify
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+<img width="1912" height="982" alt="screenshot1" src="https://github.com/user-attachments/assets/8ebcc06b-49af-48c5-b525-bfd4248ec5ab" />
+
+
+
 ## 🩺 Overview
 
 This application leverages deep learning to analyze chest X-ray images and classify them into three categories:
@@ -257,7 +261,7 @@ If you encounter issues or have questions:
 
 1. **Check existing issues** on GitHub
 2. **Create a new issue** with detailed description
-3. **Email support**: [ahmednigme@gmail.com](mailto:ahmednigme@gmail.com)
+3. **Email support**: [ahmednigme@gmail.com](mailto:ahmednigem@gmail.com)
 4. **LinkedIn**: Connect for professional inquiries
 
 ## 📚 References
@@ -272,3 +276,4 @@ If you encounter issues or have questions:
 ⭐ **If this project helps your research or work, please consider giving it a star!** ⭐
 
 **Disclaimer**: This tool is for educational and research purposes only. It should not replace professional medical diagnosis or treatment decisions.
+

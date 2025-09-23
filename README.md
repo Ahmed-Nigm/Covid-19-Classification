@@ -9,7 +9,9 @@ A deep learning web application built with Streamlit and TensorFlow for classify
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<img width="1912" height="982" alt="screenshot1" src="https://github.com/user-attachments/assets/8ebcc06b-49af-48c5-b525-bfd4248ec5ab" />
+
+![alt text](screenshot1.png)
+![alt text](screenshot2.png)
 
 
 
@@ -276,4 +278,5 @@ If you encounter issues or have questions:
 ⭐ **If this project helps your research or work, please consider giving it a star!** ⭐
 
 **Disclaimer**: This tool is for educational and research purposes only. It should not replace professional medical diagnosis or treatment decisions.
+
 
